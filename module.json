@@ -1,0 +1,27 @@
+{
+  "id": "dg-ui-macros",
+  "title": "Delta Green UI – Macro Pack",
+  "description": "Shared macros for SAN checks, Records, Mail, etc.",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "authors": [
+    {
+      "name": "Control",
+      "url": "",
+      "discord": ""
+    }
+  ],
+  "esmodules": [],
+  "packs": [
+    {
+      "name": "dg-ui-macros",
+      "label": "Delta Green UI Macros",
+      "path": "packs/dg-ui-macros.db",
+      "type": "Macro",
+      "system": "deltagreen"
+    }
+  ]
+}
